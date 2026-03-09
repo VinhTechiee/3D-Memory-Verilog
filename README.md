@@ -118,8 +118,3 @@ The modular architecture allows the design to be extended for larger memory size
 
 ---
 
-## Author
-
-**Phuong Xuong Thinh**  
-Faculty of Computer Science and Engineering  
-Ho Chi Minh City University of Technology
